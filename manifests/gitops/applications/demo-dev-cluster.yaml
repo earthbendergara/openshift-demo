@@ -14,7 +14,7 @@ spec:
     directory:
       recurse: false
     path: manifests/apps-kustomize/overlays/dev
-    repoURL: https://github.com/rhthsa/openshift-demo
+    repoURL: https://github.com/earthbendergara/openshift-demo
     targetRevision: main
   syncPolicy:
     automated:
